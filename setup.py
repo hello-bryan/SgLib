@@ -1,9 +1,4 @@
-from setuptools import setup, find_packages
-
-
-def find_sub_packages(path, prefix):
-    return [".".join([prefix, item]) for item in find_packages(where=path)]
-
+from setuptools import setup
 
 setup(
     name='sg_lib',
@@ -14,7 +9,7 @@ setup(
     author_email='com.bryan.oh@gmail.com',
     license='seunggeun-oh',
     packages=[
-        *find_sub_packages(path="seunggeun", prefix="seunggeun")
+        'seunggeun',
     ],
     zip_safe=False,
     include_package_data=True,
