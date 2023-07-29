@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='sg_lib',
-    version='1.0.0',
+    version='1.0.1',
     description='seunggeun.oh library',
     url='https://github.com/hello-bryan/SgLib',
     author='seunggeun',
@@ -10,6 +10,7 @@ setup(
     license='seunggeun-oh',
     packages=[
         'seunggeun',
+        'seunggeun._inner'
     ],
     zip_safe=False,
     include_package_data=True,
