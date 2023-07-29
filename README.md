@@ -3,6 +3,9 @@
 ## install
 `pip install git+https://github.com/hello-bryan/SgLib.git`
 
+## uninstall
+`pip uninstall sg-lib`
+
 
 ## usages
 ### chrome driver 로 선언
