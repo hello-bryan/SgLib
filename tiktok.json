@@ -1,0 +1,109 @@
+[
+  {
+    'lang': 'ko',
+    'data':
+      [
+        {
+          'order': 0,
+          'name': '#스윙',
+          'tag': '골프스윙'
+        },
+        {
+          'order': 1,
+          'name': '#캐리샷',
+          'tag': '캐리샷'
+        },
+        {
+          'order': 2,
+          'name': '#펀샷',
+          'tag': 'funnygolf'
+        },
+        {
+          'order': 3,
+          'name': '#드라이버',
+          'tag': '드라이버샷'
+        },
+        {
+          'order': 4,
+          'name': '#아이언',
+          'tag': '아이언샷'
+        },
+        {
+          'order': 5,
+          'name': '#홀인원',
+          'tag': '홀인원'
+        },
+        {
+          'order': 6,
+          'name': '#프로골퍼',
+          'tag': '프로골퍼'
+        },
+        {
+          'order': 7,
+          'name': '#골프레슨',
+          'tag': '골프레슨'
+        },
+        {
+          'order': 8,
+          'name': '#핫샷',
+          'tag': 'golfbabe'
+        },
+        {
+          'order': 9,
+          'name': '#골프',
+          'tag': '골프'
+        }
+      ]
+  },
+  {
+    'lang': 'en',
+    'data':
+      [
+        {
+          'order': 0,
+          'name': '#swing',
+          'tag': 'golfswing'
+        },
+        {
+          'order': 1,
+          'name': '#Carryshot',
+          'tag': 'Carryshot'
+        },
+        {
+          'order': 2,
+          'name': '#fun',
+          'tag': 'funnygolf'
+        },
+        {
+          'order': 3,
+          'name': '#driver',
+          'tag': 'drivershot'
+        },
+        {
+          'order': 4,
+          'name': '#HoleInOne',
+          'tag': 'holeinone'
+        },
+        {
+          'order': 5,
+          'name': '#pro',
+          'tag': 'progolf'
+        },
+        {
+          'order': 6,
+          'name': '#Lesson',
+          'tag': 'golflesson'
+        },
+        {
+          'order': 7,
+          'name': '#HOT',
+          'tag': 'golfbabe'
+        },
+        {
+          'order': 8,
+          'name': '#GOLF',
+          'tag': 'golf'
+        }
+      ]
+  }
+]

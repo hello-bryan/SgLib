@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_available_rooted">Sorry. This device is rooted. This app is not available for rooted devices.</string>
+    <string name="invalid_enc_msg">Resource file is invalid encryption.</string>
+    <string name="invalid_enc_msg2">We can\'t find required resource files. Application needs to restart. Please press restart button.</string>
+    <string name="plz_internet_connect">Please connect Internet, for checking update version.</string>
+
+    <string name="title_new_version">New version available!</string>
+    <string name="msg_new_version">Do you want to update to the new version now?</string>
+    <string name="update">Update</string>
+    <string name="later">Cancel</string>
+
+    <string name="woops">Woops</string>
+    <string name="some_permission_need">Should have this permission to run</string>
+    <string name="back">Back</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title_remove">Are you sure you want to delete?</string>
+    <string name="dialog_message_remove">Can\'t recover</string>
+    <string name="remove">Remove</string>
+    <string name="select_all">All</string>
+    <string name="skip_tutorial">Skip</string>
+    <string name="dot_text">•</string>
+    <string name="possible_camera_detect">Motion analysis is possible.</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="th_record"> # record</string>
+    <string name="main_experience_comment">Enter your experience and compare skills</string>
+    <string name="person_title">My golf experience</string>
+    <string name="profile_save">Save</string>
+    <string name="name_hint">Enter my name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save_message">Saved.</string>
+    <string name="ages">Age range</string>
+    <string name="golf_power">Golf career</string>
+    <string name="golf_bat">Golf at bat</string>
+    <string name="deleted">Deleted successfully.</string>
+    <string name="no_media">There is no media to play</string>
+    <string name="start">START</string>
+    <string name="compare_button">COMPARE</string>
+    <string name="select_n_videos_please">Please select %d videos to compare.</string>
+    <string name="back_button_twice_to_exit">Please click BACK again to exit</string>
+    <string name="back_button_n_to_exit">Please click BACK %d to exit</string>
+    <string name="confirm_delete">Are you sure you want to delete?</string>
+    <string name="confirm_delete_detail">Removed from album and can\'t be recovered.</string>
+    <string name="yes">YES</string>
+    <string name="no">CANCEL</string>
+    <string name="compare">compare</string>
+    <string name="album">Album</string>
+    <string name="settings_sound_title">Sound assistant</string>
+    <string name="settings_sound_summ_on">Turn on the sound guidance effect on the auto recording screen.</string>
+    <string name="settings_sound_summ_off">Turn off the sound guidance effect on the auto recording screen.</string>
+
+
+    <!-- Play Icon -->
+    <string name="play_icon_upper_path_data">M 44 32 L 44 64 L 100 64 L 100 64 Z</string>
+    <string name="play_icon_bottom_path_data">M 44 96 L 44 64 L 100 64 L 100 64 Z</string>
+    <!-- Pause Icon -->
+    <string name="pause_icon_upper_path_data">M 32 40 L 32 56  L 96 56 L 96 40 Z</string>
+    <string name="pause_icon_bottom_path_data">M 32 88 L 32 72 L 96 72 L 96 88 Z</string>
+
+    <string name="main_resource_load_ready_text">Preparing</string>
+    <string name="google_play_url">https://play.google.com/store/apps/details?id=%s&amp;nocache=%d</string>
+    <string name="settings_title_ready_sound">Ready voice type</string>
+    <string name="no_carry_video_text">There is no video taken with the carry app.\n\nStart recording your swing video now.</string>
+
+    <string name="so_far_msg">Too far. Please come closer.</string>
+    <string name="num_of_shots">Take #%d (%d)</string>
+    <string name="battery_save_mode_release_title">절약 모드 해제</string>
+    <string name="battery_save_mode_release_sub_title">이제 꺼질 걱정마세요</string>
+    <string name="battery_save_mode_title">절약 모드 중</string>
+    <string name="battery_save_mode_sub_title">충전 해주세요</string>
+    <string name="battery_save_mode_change_title">절약 모드 전환</string>
+    <string name="battery_save_mode_change_sub_title">충전 시 해제됩니다</string>
+    <string name="save_button">Save</string>
+    <string name="share_button">Share</string>
+    <string name="delete_button">Delete</string>
+    <string name="carry_contact_title">캐리샷 문의하기</string>
+    <string name="contents">contents</string>
+
+    <string name="tutorial_record_center_1">골프 동작 녹화를 위해\n버튼을 눌러주세요</string>
+    <string name="tutorial_record_center_2">화면 안에 들어와서\n자세를 잡아보세요</string>
+    <string name="tutorial_record_center_3">골프 자세를 인식하면\n초록색 표시가 보입니다</string>
+    <string name="tutorial_record_center_4">골프 스윙을 하면\n동작을 자동 녹화합니다</string>
+    <string name="tutorial_record_center_5">녹화 영상은 하단\n앨범에 저장됩니다</string>
+    <string name="tutorial_record_center_6">지금 바로 골프 동작을\n녹화해 보세요!</string>
+
+    <string name="tutorial_record_sub_1">녹화 전에 휴대폰을 거치해주세요 </string>
+    <string name="tutorial_record_sub_2">안정적인 거리는 2 ~ 3 미터 입니다</string>
+    <string name="tutorial_record_sub_3">붉은색은 자세 교정이 필요합니다</string>
+    <string name="tutorial_record_sub_4">딥러닝 기술이 동작을 분석합니다</string>
+    <string name="tutorial_record_sub_5">딥러닝 기술이 동작을 분석합니다</string>
+    <string name="tutorial_record_sub_6">녹화된 영상으로 동작 비교도 해보세요</string>
+    <string name="preparing_message">준비중입니다.</string>
+    <string name="movie_change_1">영상1 변경</string>
+    <string name="movie_change_2">영상2 변경</string>
+    <string name="movie_before">이전 영상</string>
+    <string name="movie_current">현재 영상</string>
+    <string name="tiktok_shortcut">틱톡 바로가기</string>
+    <string name="dont_show_me">다시 보지 않기</string>
+
+    <string name="tiktok_alert_text">
+    <![CDATA[
+    <b>#캐리샷</b> <font color="#8a000000">태그 달아</font> <br/>
+    <font color="#8a000000">틱톡에 올리면, 캐리샷 메인에 노출됩니다.</font>
+    ]]>
+    </string>
+    <string name="menu_personal_info_input">개인정보 입력</string>
+    <string name="menu_sound_effect">소리 효과</string>
+    <string name="menu_mirror_beta">녹화 후 자동재생 (미러링/Beta)</string>
+    <string name="menu_share_setting">공유 설정</string>
+    <string name="menu_contact">문의하기</string>
+    <string name="menu_notice">공지사항</string>
+    <string name="menu_term_service">이용약관</string>
+    <string name="person_my_name">내 이름</string>
+    <string name="empty_album_text">태그 선택해서 내 활동을 기록해보세요.</string>
+    <string name="album_compare_text">비교 영상 2개를 선택해 주세요</string>
+    <string name="resource_install_question">동작 분석을 위한\n리소스를 설치하시겠습니까?</string>
+    <string name="install_only_once">최초 1회만 설치합니다.</string>
+    <string name="install">설치하기</string>
+    <string name="do_later">나중에 하기</string>
+    <string name="video_detail">영상정보 확인</string>
+    <string name="touch_twice_for_like">화면을 2번 터치하면\n”좋아요” 표시가 됩니다</string>
+</resources>
